@@ -1,0 +1,5 @@
+{
+  "name": "Novel TTS Player",
+  "description": "An application to convert novel chapters into audio using the high-quality, client-side Piper TTS model which runs directly in your browser.",
+  "requestFramePermissions": []
+}
